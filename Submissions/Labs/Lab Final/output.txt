@@ -1,0 +1,4 @@
+Inorder: (4000, 9) (6000, 10) (8000, 4) (9000, 5) (10000, 2) (11000, 1) (13000, 2) 
+Highest income: 13000	# of People with Highest Income: 2
+Amount of single children in tree: 2
+Income of the area: 230000

@@ -1,0 +1,32 @@
+==================================================================
+Insert Phase
+==================================================================
+
+Preorder: judy bill alice fred dave jane joe mary tom 
+Inorder: alice bill dave fred jane joe judy mary tom 
+Postorder: alice dave joe jane fred bill tom mary judy 
+
+Total Characters: 35
+
+Left Tree Height: 3
+Right Tree Height: 1
+This tree is not balanced.
+==================================================================
+Search Phase
+==================================================================
+
+jane, Found. Items found: 4
+jones, Found. Items found: 0
+judy, Found. Items found: 6
+==================================================================
+Delete Phase
+==================================================================
+
+deleted: alice 
+deleted: mary 
+deleted: judy 
+deleted: fred 
+
+Inorder: bill jane jane joe tom 
+Total Characters: 18
+==================================================================
